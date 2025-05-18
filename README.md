@@ -4,7 +4,7 @@
 
 Projeto de um carrinho que:
 - Segue uma linha preta com sensores MH.
-- Desvia de obstáculos com sensor ultrassônico.
+- Evita obstáculos com sensor ultrassônico.
 - Envia dados via serial para a ESP32 ou ESP8266.
 
 ## 📁 Códigos
